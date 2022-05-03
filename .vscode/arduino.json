@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "programmer": "arduino:avrispmkii",
+    "port": "COM10",
+    "sketch": "RFIDRoulette.ino"
+}
