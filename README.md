@@ -2,7 +2,7 @@
 
 Russian Roulette, but nobody dies!
 
-![RFID Roulette](docs/picture.png)
+![RFID Roulette](docs/picture.jpg)
 
 Taser Russian Roulette is, as the name implies, a game of Russian Roulette, but with a taser rather than pistols.
 
@@ -20,10 +20,11 @@ For this project, the following components were used:
 - Push Button
 - LED
 
-Following are the circuit diagram and a photo of my build.
+Following are the circuit diagram and two photos of my build.
 
 ![Schematic](docs/schematic.png)
-![Hardware](docs/hardware.png)
+![Hardware](docs/hardware1.jpg)
+![Hardware](docs/hardware2.jpg)
 
 ## How 2 play
 
