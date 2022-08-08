@@ -20,7 +20,7 @@ For this project, the following components were used:
 - Push Button
 - LED
 
-Following are the circuit diagram and two photos of my build.
+Following are the circuit diagram and two photos of my "build".
 
 ![Schematic](docs/schematic.png)
 ![Hardware](docs/hardware1.jpg)
